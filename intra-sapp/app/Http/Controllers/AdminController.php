@@ -237,4 +237,8 @@ class AdminController extends Controller
         //        $writer = new Xls($archivoexcel);
         //        $writer->save('Pruebas excel.xls');
     }
+
+    public function crearExcelInformatica()
+    {
+    }
 }
